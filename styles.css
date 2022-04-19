@@ -9,6 +9,8 @@ body {
   min-height: 740px;
   overflow-x: hidden;
   overflow-y: auto;
+  transform: scale(50%);
+
 }
 .slides {
   width: 100%;
